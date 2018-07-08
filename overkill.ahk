@@ -274,7 +274,7 @@ Class OverWatch
 		, Y1 := (A_ScreenHeight)/2 - (A_ScreenHeight)/5
 		, X2 := (A_ScreenWidth)/2 + (A_ScreenWidth)/7
 		, Y2 := (A_ScreenHeight)/2 + (A_ScreenHeight)/7
-		, ColorID := 0xFF0013, ColorVariation := 0
+		, ColorID := #A3000C, ColorVariation := 0
 
 		Loop
 		{
